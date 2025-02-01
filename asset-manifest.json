@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/checklist-app-bike/static/css/main.f855e6bc.css",
+    "main.js": "/checklist-app-bike/static/js/main.212a1630.js",
+    "static/js/488.454c19d5.chunk.js": "/checklist-app-bike/static/js/488.454c19d5.chunk.js",
+    "static/media/logo.svg": "/checklist-app-bike/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/checklist-app-bike/index.html",
+    "main.f855e6bc.css.map": "/checklist-app-bike/static/css/main.f855e6bc.css.map",
+    "main.212a1630.js.map": "/checklist-app-bike/static/js/main.212a1630.js.map",
+    "488.454c19d5.chunk.js.map": "/checklist-app-bike/static/js/488.454c19d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.212a1630.js"
+  ]
+}
